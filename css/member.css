@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+}
+body{
+    font-size: 12px;
+}
+ul{
+    list-style-type: none;
+}
+a:hover,a:active,a:link,a:visited{
+    text-decoration: none;
+    font-size: 12px;
+}
+.navbar{
+    margin-bottom:0px!important;
+}
+/* header */
+#bs-example-navbar-collapse-1 ul li a{
+    text-align: center;
+}
+#bs-example-navbar-collapse-1 ul li a i{
+    display: block;
+    font-size: 20px;
+    margin: 0 auto;
+}
+#bs-example-navbar-collapse-2 ul li a{
+    text-align: center;
+}
+#bs-example-navbar-collapse-2 ul li a i{
+    display: block;
+    font-size: 20px;
+    margin: 0 auto;
+}
+#navbar2{
+    margin-bottom: 10px!important;
+}
+#bs-example-navbar-collapse-1 ul{
+    width: 100%;
+}
+#bs-example-navbar-collapse-1 ul li{
+    width: 12%;
+}
+/*登录页面*/
+#form-login .control-label{
+    color: #ffffff;
+}
+.form-control-feedback{
+    position: absolute;
+    right: 15px;
+}
+/*首页*/
+
+
+/* .active a{
+    background-color: #000!important;
+    color: #ffffff!important;
+} */
+
+
+.ulli{
+    width: 100%;
+}
+.ulli li{
+    width: 12.5%;
+}
+.login-span-front{
+    position: absolute;
+    border: none;
+    left: 0;
+    top: 4px;
+
+}
+.login-input-class{
+    padding-left: 40px;
+    background-color: rgba(255,255,255,0);
+}
+#myModal .input-group{
+    width: 100%;
+}
+.card .caption{
+    color: #ffffff
+}
+.caption-card8{
+    background-color: #6495ed;
+}
+.caption-card0{
+    background-color: #3bbec0;
+}
+.caption-card1{
+    background-color: #3873ae;
+}
+.caption-card2{
+    background-color: #62c6f8;
+}
+.caption-card3{
+    background-color: #d74980;
+}
+.caption-card4{
+    background-color: #8da356;
+}
+.caption-card5{
+    background-color: #853bc0;
+}
+.caption-card6{
+    background-color: #e87352;
+}
+
+.bigfont{
+    /* font-size: 30px; */
+}
+.thumbnail{
+    background-color: rgba(255,255,255,0)!important;
+    border: 0!important;
+    margin-bottom: 5px!important;
+}
+
+
+/*会员信息管理页面*/
+table{
+    text-align: center;
+}
+table th{
+    text-align: center;
+}

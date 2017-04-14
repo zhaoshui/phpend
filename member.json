@@ -1,0 +1,8 @@
+[
+  {"id":"1","member-level":"高级会员","member-ratio":"80%","member-point":"200"},
+  {"id":"2","member-level":"初级会员","member-ratio":"10%","member-point":"100"},
+  {"id":"3","member-level":"超级会员","member-ratio":"90%","member-point":"10"},
+  {"id":"4","member-level":"低级会员","member-ratio":"10%","member-point":"20"},
+  {"id":"5","member-level":"中级会员","member-ratio":"50%","member-point":"60"},
+  {"id":"6","member-level":"高级会员","member-ratio":"80%","member-point":"70"}
+]
